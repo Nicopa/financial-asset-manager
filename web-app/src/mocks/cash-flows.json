@@ -1,0 +1,29 @@
+[
+	{
+		"brokerID": "brokerid1",
+		"brokerName": "Broker 1 INC.",
+		"operationDate": "2022-01-01T10:00:00",
+		"settlementDate": "2022-01-02T00:00:00",
+		"operation": "OUT",
+		"currency": "BRL",
+		"value": 1000
+	},
+	{
+		"brokerID": "brokerid2",
+		"brokerName": "Broker 1 INC.",
+		"operationDate": "2022-01-01T10:00:00",
+		"settlementDate": "2022-01-02T00:00:00",
+		"operation": "OUT",
+		"currency": "BRL",
+		"value": 500
+	},
+	{
+		"brokerID": "brokerid2",
+		"brokerName": "Broker 3 INC.",
+		"operationDate": "2022-01-03T10:00:00",
+		"settlementDate": "2022-01-03T00:00:00",
+		"operation": "IN",
+		"currency": "USD",
+		"value": 900
+	}
+]
