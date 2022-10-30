@@ -7,9 +7,9 @@ This is my personal finance asset manager. Since I started investing in stocks, 
 
 Since I designed it for my own investments, which are or are located in Brazil, the asset modules, for now, follow the rules and logic of Brazilian legislation.
 
-![Screenshot 1](/docs/web-app/screenshot1.webp)
-![Screenshot 2](/docs/web-app/screenshot2.webp)
-![Screenshot 3](/docs/web-app/screenshot3.webp)
+![Screenshot 1](/web-app/docs/screenshot1.webp)
+![Screenshot 2](/web-app/docs/screenshot2.webp)
+![Screenshot 3](/web-app/docs/screenshot3.webp)
 
 ## Table of contents
 
